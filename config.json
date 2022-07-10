@@ -1,0 +1,12 @@
+{
+    "token": "OTQ2NzE2OTQ5MDg0MjYyNDUw.Yhiw3Q.bPyvno0JyGWLkJWaQgGshepDPiM",
+    "mongoUrl": "",
+    "prefix": "!",
+    "serverID": "",
+    "developerIDs": [],
+    "cooldownMessages": [],
+    "emojis": {
+        "developers":"Gluck",
+        "basic":"👍"
+      }
+}
